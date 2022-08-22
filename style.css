@@ -1,0 +1,86 @@
+p{
+    font-family: 'Short Stack', cursive;
+
+}
+img,section{
+    filter: drop-shadow(.20em .20em .20em );
+}   
+h1,h3{
+    font-family: 'Jua', sans-serif;
+
+}
+/* Title */
+#title{
+    background-color:orange;
+    text-align: center;
+    padding: 7%;    
+    color:white
+}
+#title h1{
+    padding-bottom: 3%;
+    font-weight: 800;
+    font-size: 3rem;
+    filter: drop-shadow(.20em .20em .20em black);
+    
+
+    
+}
+
+    
+
+
+/* products */
+#products{
+    background-color: white;
+    text-align: center;
+    padding: 11%;
+    background-color:white;
+}
+#products img{
+    padding: 1%;
+    width: 40vw;
+    height: 40vw;
+    border-radius: 10%;
+    
+}
+
+/* opinions */
+#opinions{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 10%;
+    
+}
+
+#opinions i{
+    font-size: 3vw;
+    margin-bottom: 5%;
+}
+.opinion{
+    margin-bottom: 33px;
+}
+.opinion i:hover{
+    color:black;
+    
+}
+
+
+/* contact */
+#contact{
+    background-color: white;
+    color: orange;
+    text-align: center;
+    padding: 5%;
+}
+
+#contact i{
+    color:black;
+    font-size: 2vw;
+    margin:.5%;
+}
+
+#contact i:hover{
+    color:aqua
+}
+
